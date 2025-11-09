@@ -31,6 +31,7 @@ A simple Matlab APP used Astar
 
 ### 2.2 修改模式
 修改模式则是打开已有地图并编辑，需要用户自己选择地图文件。
+
 <img width="468" height="324" alt="image" src="https://github.com/user-attachments/assets/e7b79a1e-29a3-4c35-945e-fb975c0d2ae3" />
 
 ### 2.3 地图编辑
@@ -42,4 +43,5 @@ A simple Matlab APP used Astar
 
 ## 3 介绍界面
 介绍界面包含了本软件的一些基本信息，如灵感来源和注意事项等。
+
 <img width="435" height="301" alt="image" src="https://github.com/user-attachments/assets/4035ca6e-729d-4fa6-a57b-26e5ea0ad7cf" />
