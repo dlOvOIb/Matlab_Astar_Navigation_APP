@@ -27,6 +27,7 @@ A simple Matlab APP used Astar
 
 ### 2.1 新建模式
 新建模式需要输入所建地图的行列大小和名称，并且需要选择文件保存路径（默认为app主程序代码所在文件夹中的MAP文件夹）。
+
 <img width="432" height="299" alt="image" src="https://github.com/user-attachments/assets/2767b18c-4167-4421-acf0-3dda8e358acf" />
 
 ### 2.2 修改模式
@@ -36,9 +37,13 @@ A simple Matlab APP used Astar
 
 ### 2.3 地图编辑
 输入地图大小和名称后，点击开始编辑后，会自动新建一个地图，并在右侧UI中显示出来。
+
 <img width="469" height="325" alt="image" src="https://github.com/user-attachments/assets/e544a139-a399-4835-a6dd-90f4ff41e9e1" />
+
 我们可以通过点击来编辑地图中每个（除边缘）格子的状态。一个格子有四个状态：空白为正常道路、黑色为墙壁、蓝色为斜坡、粉色为楼梯（顺序为白黑蓝粉循环）。地图数据实时保存。
+
 <img width="469" height="325" alt="image" src="https://github.com/user-attachments/assets/2cad1839-d502-4bcb-b70a-4d302686f707" />
+
 也在地图上添加地点说明，输入要添加说明的位置（XY坐标）及内容，内容实时显示，便于位置调整，点击“添加地点”就可以写入地图中，并且不可调整或删除（注意目前并未实现已经写入的地点说明的调整和删除，添加地点时请三思！！！）。
 
 ## 3 介绍界面
